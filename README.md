@@ -2,8 +2,10 @@
 - 👀 I’m interested in penetration testing and coding.
 - 🌱 I’m currently learning penetration testing and coding in java and python
 - 💞️ I’m looking to collaborate on hacking and most of all penetration testing
-- 📫 How to reach me @facebook simon zeal
--  
+- 📫 How to reach me  x @drzeal68
+-  I am a full stack web developer and a system developer.
+
+  
 
 <!---
 DrZeal/DrZeal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
